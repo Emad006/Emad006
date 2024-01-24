@@ -29,12 +29,12 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emad006&theme=nightowl&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats-nine-tan-27.vercel.app/api?username=Emad006&theme=nightowl&show_icons=true&hide_border=true&count_private=true"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emad006&theme=nightowl&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emad006&theme=nightowl&show_icons=true&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats-nine-tan-27.vercel.app/api/top-langs/?username=Emad006&theme=nightowl&show_icons=true&hide_border=true&layout=compact"/>
 </p>
 
