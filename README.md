@@ -1,14 +1,9 @@
 # 💫 About Me
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Emad006&icon=2&color=6" alt="visitor badge"/>
-  </a>
-</p>
 
 <h1 align="center">Hi 👋 I'm Emad</h1>
 <h3 align="center">An aspiring developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently studying **Supervised Machine Learning**
 
 - 🎓 I'm currently studying at **American International University-Bangladesh**
 
