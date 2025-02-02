@@ -1,7 +1,7 @@
 # 💫 About Me
 
 <h1 align="center">Hi 👋 I'm Emad</h1>
-<h3 align="center">An aspiring developer from Bangladesh</h3>
+<h3 align="center">Computer Science undergrad | Aspiring Developer | Passionate about AI & Data Science</h3>
 
 - 🌱 I’m currently studying **Supervised Machine Learning**
 
